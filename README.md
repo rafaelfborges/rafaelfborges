@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rafael Borges 👋
 
 <!--
 **rafaelfborges/rafaelfborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+IT professional for 10 years with background in the infrastructure area. In the Information Systems course at PUCPR, I rediscovered my passion for programming. Technology and challenges motivate me, I want to be part of the digital transformation, being a multidisciplinary professional who adds and generates value, building robust and reliable applications. I am communicative, resilient, self-taught and adept at continuous learning. I am currently part of the AceleraDev Java program from Codenation and Hiring Coders from the Gama Academy. I seek internship opportunities or junior developer.
